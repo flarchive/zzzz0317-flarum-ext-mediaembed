@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of zzzz0317/flarum-ext-mediaembed.** Not for installation: use [Packagist](https://packagist.org/packages/zzzz0317/flarum-ext-mediaembed) or the [upstream repository](https://github.com/zzzz0317/flarum-ext-mediaembed).
 
-**0** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/zzzz0317-flarum-ext-mediaembed/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.3`
+**4** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/zzzz0317-flarum-ext-mediaembed/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-05-11 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/zzzz0317-flarum-ext-mediaembed/tree/archive/v0.1.0) |
+| `0.1.1` | 2018-08-06 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/zzzz0317-flarum-ext-mediaembed/tree/archive/v0.1.1) |
+| `0.1.1.a` | 2018-08-06 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/zzzz0317-flarum-ext-mediaembed/tree/archive/v0.1.1.a) |
+| `0.1.2` | 2018-08-06 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/zzzz0317-flarum-ext-mediaembed/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/zzzz0317-flarum-ext-mediaembed.json](https://github.com/flarchive/archive-index/blob/main/packages/zzzz0317-flarum-ext-mediaembed.json)
 
